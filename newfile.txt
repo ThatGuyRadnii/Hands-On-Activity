@@ -1,1 +1,4 @@
 Ooga Booga I am the newfile.txt file eater. I have eaten your newfile.txt.
+
+
+Quick! I am the my-new-branch man. I am a save haven for newfile.text guy. Commit newfile.txt guy to me!
